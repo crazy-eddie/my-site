@@ -6,3 +6,6 @@
 	path = themes/hugo-orbit-theme
 	url = https://github.com/aerohub/hugo-orbit-theme
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:crazy-eddie/crazy-eddie.github.io.git
