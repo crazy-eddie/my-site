@@ -1,0 +1,8 @@
+[submodule "my-site"]
+	path = my-site
+	url = git@github.com:crazy-eddie/my-site.git
+	branch = master
+[submodule "themes/hugo-orbit-theme"]
+	path = themes/hugo-orbit-theme
+	url = https://github.com/aerohub/hugo-orbit-theme
+	branch = master
